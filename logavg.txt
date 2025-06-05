@@ -51,3 +51,24 @@ totalstep 136629
 iteration: 19. success rate: 0.6. Total 2349. Time: 301.349
 totalstep 142075
 iteration: 20. success rate: 0.63. Total 2357. Time: 302.632
+totalstep 146868
+iteration: 21. success rate: 0.66. Total 2375. Time: 296.481
+totalstep 153056
+iteration: 22. success rate: 0.54. Total 2383. Time: 360.886
+totalstep 158810
+iteration: 23. success rate: 0.49. Total 2394. Time: 300.698
+totalstep 164571
+iteration: 24. success rate: 0.58. Total 2399. Time: 330.925
+totalstep 170268
+iteration: 25. success rate: 0.56. Total 2408. Time: 325.868
+totalstep 175834
+iteration: 26. success rate: 0.61. Total 2409. Time: 345.416
+totalstep 181264
+iteration: 27. success rate: 0.48. Total 2414. Time: 315.233
+totalstep 186619
+iteration: 28. success rate: 0.57. Total 2420. Time: 297.826
+totalstep 191481
+iteration: 29. success rate: 0.59. Total 2421. Time: 265.964
+totalstep 196291
+iteration: 30. success rate: 0.65. Total 2424. Time: 294.087
+evaluating model:
