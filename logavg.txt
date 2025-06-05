@@ -1,0 +1,42 @@
+droneworld_scan
+device == cuda
+
+##################################
+Starting training on droneworld_scan
+##################################
+
+totalstep 7638
+iteration: 0. success rate: 0.32. Total 306. Time: 275.573
+evaluating model:
+evaluation success rate: 0.24. time: 2624.923 mean_return 28.051
+totalstep 15355
+iteration: 1. success rate: 0.42. Total 1634. Time: 290.466
+totalstep 22477
+iteration: 2. success rate: 0.53. Total 1795. Time: 341.572
+totalstep 29099
+iteration: 3. success rate: 0.6. Total 1902. Time: 296.755
+totalstep 37835
+iteration: 4. success rate: 0.24. Total 1970. Time: 332.617
+totalstep 45550
+iteration: 5. success rate: 0.54. Total 2017. Time: 330.227
+totalstep 53413
+iteration: 6. success rate: 0.4. Total 2066. Time: 320.615
+totalstep 60536
+iteration: 7. success rate: 0.5. Total 2108. Time: 286.073
+totalstep 68477
+iteration: 8. success rate: 0.31. Total 2136. Time: 293.48
+totalstep 74541
+iteration: 9. success rate: 0.66. Total 2165. Time: 274.989
+totalstep 82059
+iteration: 10. success rate: 0.46. Total 2192. Time: 340.223
+totalstep 88682
+iteration: 11. success rate: 0.48. Total 2217. Time: 260.05
+totalstep 94773
+iteration: 12. success rate: 0.68. Total 2240. Time: 314.544
+totalstep 101369
+iteration: 13. success rate: 0.54. Total 2279. Time: 386.834
+totalstep 107489
+iteration: 14. success rate: 0.55. Total 2291. Time: 338.569
+totalstep 113446
+iteration: 15. success rate: 0.56. Total 2312. Time: 363.274
+evaluating model:
