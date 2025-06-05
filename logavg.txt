@@ -145,3 +145,26 @@ totalstep 367699
 iteration: 63. success rate: 0.73. Total 2539. Time: 286.336
 totalstep 371255
 iteration: 64. success rate: 0.81. Total 2544. Time: 246.093
+totalstep 375493
+iteration: 65. success rate: 0.68. Total 2547. Time: 253.181
+totalstep 380618
+iteration: 66. success rate: 0.6. Total 2547. Time: 341.727
+totalstep 385013
+iteration: 67. success rate: 0.69. Total 2548. Time: 294.544
+totalstep 389680
+iteration: 68. success rate: 0.73. Total 2550. Time: 343.337
+totalstep 394849
+iteration: 69. success rate: 0.67. Total 2553. Time: 336.914
+totalstep 400036
+iteration: 70. success rate: 0.69. Total 2556. Time: 366.258
+totalstep 404575
+iteration: 71. success rate: 0.67. Total 2556. Time: 297.606
+totalstep 408516
+iteration: 72. success rate: 0.75. Total 2556. Time: 258.707
+totalstep 412824
+iteration: 73. success rate: 0.73. Total 2557. Time: 297.257
+totalstep 417326
+iteration: 74. success rate: 0.72. Total 2558. Time: 305.02
+totalstep 421932
+iteration: 75. success rate: 0.72. Total 2559. Time: 308.951
+evaluating model:
