@@ -319,3 +319,12 @@ totalstep 636663
 iteration: 145. success rate: 0.98. Total 2661. Time: 257.255
 totalstep 639900
 iteration: 146. success rate: 0.94. Total 2662. Time: 310.791
+totalstep 642847
+iteration: 147. success rate: 0.96. Total 2662. Time: 260.671
+totalstep 645998
+iteration: 148. success rate: 0.89. Total 2662. Time: 310.2
+totalstep 648963
+iteration: 149. success rate: 0.92. Total 2662. Time: 263.282
+totalstep 651577
+iteration: 150. success rate: 0.96. Total 2662. Time: 271.164
+evaluating model:
