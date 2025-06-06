@@ -541,3 +541,15 @@ totalstep 929155
 iteration: 249. success rate: 0.92. Total 2690. Time: 276.605
 totalstep 932036
 iteration: 250. success rate: 0.95. Total 2690. Time: 292.5
+totalstep 934719
+iteration: 251. success rate: 0.94. Total 2690. Time: 290.829
+totalstep 937031
+iteration: 252. success rate: 0.99. Total 2690. Time: 285.731
+totalstep 939668
+iteration: 253. success rate: 0.98. Total 2691. Time: 243.39
+totalstep 942355
+iteration: 254. success rate: 0.96. Total 2691. Time: 261.683
+totalstep 944957
+iteration: 255. success rate: 0.91. Total 2691. Time: 246.002
+evaluating model:
+evaluation success rate: 0.8. time: 2483.703 mean_return 87.005
