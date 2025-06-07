@@ -765,3 +765,14 @@ totalstep 1222720
 iteration: 354. success rate: 0.94. Total 2711. Time: 292.892
 totalstep 1225531
 iteration: 355. success rate: 0.95. Total 2711. Time: 301.93
+totalstep 1227771
+iteration: 356. success rate: 0.97. Total 2711. Time: 271.076
+totalstep 1230529
+iteration: 357. success rate: 0.91. Total 2711. Time: 260.382
+totalstep 1233684
+iteration: 358. success rate: 0.94. Total 2711. Time: 277.264
+totalstep 1236270
+iteration: 359. success rate: 0.98. Total 2711. Time: 282.677
+totalstep 1239014
+iteration: 360. success rate: 0.94. Total 2711. Time: 292.688
+evaluating model:
