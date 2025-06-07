@@ -837,3 +837,13 @@ totalstep 1314307
 iteration: 388. success rate: 0.93. Total 2717. Time: 271.871
 totalstep 1316606
 iteration: 389. success rate: 0.96. Total 2717. Time: 241.907
+totalstep 1319242
+iteration: 390. success rate: 0.95. Total 2717. Time: 287.519
+evaluating model:
+evaluation success rate: 0.78. time: 2492.602 mean_return 84.747
+totalstep 1321861
+iteration: 391. success rate: 0.98. Total 2717. Time: 312.462
+totalstep 1324400
+iteration: 392. success rate: 0.97. Total 2717. Time: 278.201
+totalstep 1326879
+iteration: 393. success rate: 0.91. Total 2717. Time: 271.323
