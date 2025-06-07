@@ -744,3 +744,24 @@ iteration: 344. success rate: 0.98. Total 2710. Time: 294.875
 totalstep 1200266
 iteration: 345. success rate: 0.96. Total 2710. Time: 273.235
 evaluating model:
+evaluation success rate: 0.78. time: 2486.59 mean_return 85.141
+totalstep 1203119
+iteration: 346. success rate: 0.92. Total 2710. Time: 306.278
+totalstep 1205043
+iteration: 347. success rate: 0.98. Total 2711. Time: 206.154
+totalstep 1207369
+iteration: 348. success rate: 0.95. Total 2711. Time: 259.487
+totalstep 1210025
+iteration: 349. success rate: 0.94. Total 2711. Time: 282.123
+totalstep 1212363
+iteration: 350. success rate: 0.94. Total 2711. Time: 255.416
+totalstep 1214697
+iteration: 351. success rate: 0.97. Total 2711. Time: 249.351
+totalstep 1217090
+iteration: 352. success rate: 0.95. Total 2711. Time: 278.819
+totalstep 1220015
+iteration: 353. success rate: 0.94. Total 2711. Time: 285.472
+totalstep 1222720
+iteration: 354. success rate: 0.94. Total 2711. Time: 292.892
+totalstep 1225531
+iteration: 355. success rate: 0.95. Total 2711. Time: 301.93
