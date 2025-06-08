@@ -1071,3 +1071,11 @@ totalstep 1608803
 iteration: 497. success rate: 0.92. Total 2724. Time: 270.861
 totalstep 1612035
 iteration: 498. success rate: 0.95. Total 2724. Time: 287.512
+totalstep 1614398
+iteration: 499. success rate: 0.99. Total 2724. Time: 274.11
+
+##################################
+Finished training on droneworld_scan
+Best evaluation success rate: 0.94
+##################################
+
